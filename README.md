@@ -23,7 +23,7 @@ Projeto desenvolvido com HTML5 e CSS3 para praticar a criação de páginas resp
 
 🌐 **[Acessar Projeto Cordel](https://bezzuoli07.github.io/html-css-cursoemvideo/desafios/projeto.cordel/cordel.html)**
 
-📂 **[Ver código-fonte](./desafios/projeto.cordel/)**
+📂 **[Ver código-fonte](https://github.com/Bezzuoli07/html-css-cursoemvideo/tree/main/desafios/projeto.cordel)**
 
 ---
 
@@ -43,7 +43,7 @@ Posteriormente, revisei o projeto e implementei melhorias de organização e res
 
 🌐 **[Acessar minha versão do Projeto Android](https://bezzuoli07.github.io/html-css-cursoemvideo/desafios/desafio10.modulo2/android.html)**
 
-📂 **[Ver código-fonte](./desafios/desafio10.modulo2/)**
+📂 **[Ver código-fonte](https://github.com/Bezzuoli07/html-css-cursoemvideo/tree/main/desafios/desafio10.modulo2)**
 
 ---
 
@@ -55,7 +55,7 @@ Mantive as duas versões no repositório para registrar meu processo de aprendiz
 
 🌐 **[Acessar Projeto Android corrigido](https://bezzuoli07.github.io/html-css-cursoemvideo/desafios/desafio010.corrigido/index.html)**
 
-📂 **[Ver código-fonte](./desafios/desafio010.corrigido/)**
+📂 **[Ver código-fonte](https://github.com/Bezzuoli07/html-css-cursoemvideo/tree/main/desafios/desafio010.corrigido)**
 
 ---
 
