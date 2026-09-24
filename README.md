@@ -110,3 +110,5 @@ Construir uma base sólida em desenvolvimento **Front-End**, aprimorando meus co
 Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor Front-End em formação.
 
 Atualmente aprimorando meus conhecimentos em desenvolvimento web e construindo projetos para desenvolver minhas habilidades práticas.
+
+<!-- atualização do GitHub Pages -->
